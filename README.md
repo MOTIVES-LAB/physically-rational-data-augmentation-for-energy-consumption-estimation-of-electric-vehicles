@@ -1,5 +1,5 @@
-# Physically rational data augmentation and validation
-Code for the paper **Physically rational data augmentation for energy consumption estimation of electric vehicles**.
+# Physically Rational Data Augmentation for Energy Consumption Estimation of Electric Vehicles
+Data and Code for the paper **Physically rational data augmentation for energy consumption estimation of electric vehicles**.
 ## Overview
 The physically rational data augmentation and validation is a Python-based program designed to realize the data augmentation of the vehicle driving data in real world. This tool through sample split and sample concatenation of any driving data achieved data augmentation and verify the effectiveness of the proposed method in existing energy consumption estimation models.
 
@@ -95,3 +95,7 @@ By downloading or using this code, you signify your agreement to these terms.
 
 Please contact us if you need further technical support. If you have any trouble with this repo, feel free to contact us by e-mail. We'll try to resolve the issue as soon as possible! Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.\
 Email contact: &nbsp; [MOTIVES Lab](mailto:motives.lab@gmail.com), &nbsp; [Yifan Ma](mailto:jlumayf@163.com).
+
+<p align="center">
+  <img src="https://github.com/MOTIVES-LAB/generalized-energy-consumption-evaluation-for-ev/blob/main/figures/new_logo_trans.png" alt="drawing" width="200"/>
+</p>  

@@ -3,6 +3,10 @@ Data and Code for the paper **Physically rational data augmentation for energy c
 ## Overview
 The physically rational data augmentation and validation is a Python-based program designed to realize the data augmentation of the vehicle driving data in real world. This tool through sample split and sample concatenation of any driving data achieved data augmentation and verify the effectiveness of the proposed method in existing energy consumption estimation models.
 
+<p align="center">
+  <img src="https://github.com/MOTIVES-LAB/physically-rational-data-augmentation-for-energy-consumption-estimation-of-electric-vehicles/blob/main/graphical%20abstract.png" alt="drawing" width="200"/>
+</p>  
+
 ## Features
 - **Sample Feature Extraction**: Extract sample features from raw trip data.
 - **Proposed method for data augmentation**: The proposed data augmentation method is used to amplify the original sample data.

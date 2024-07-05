@@ -8,11 +8,9 @@ The physically rational data augmentation and validation is a Python-based progr
 </p>  
 
 ## Features
-- **Sample Feature Extraction**: Extract sample features from raw trip data.
-- **Proposed method for data augmentation**: The proposed data augmentation method is used to amplify the original sample data.
-- **Baseline method for data augmentation**: Two existing data augmentation methods to amplify raw sample data.
-- **Random Search Parameter Adjustment**: Stochastic search is utilized to achieve the tuning of the hyperparameters of each energy estimation model under the same parameter space.
-- **Five fold cross validation**: Existing energy estimation models are trained using augmented data to validate the effectiveness of the proposed augmentation method under five-fold cross-validation conditions.
+- **Dataset**: High quality real-world driving data of Tesla Model 3;
+- **Data augmentation approach**: Using sub-trips (mirco-trips) for more effecitve (physical rational) data augmentation;
+- **Validation**: Using small-sized training set (20%) for testing the generalizability of the model performance.
 
 ## Usage
 

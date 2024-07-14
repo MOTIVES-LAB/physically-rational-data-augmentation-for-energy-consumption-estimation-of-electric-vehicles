@@ -86,7 +86,12 @@ lgb2_val=validation(train_path,val_path,'XGBoost')
 
 
 ```
-
+## References
+- Please cite the following paper when referring to this approach:  
+`
+Ma, Yifan, et al. "Physically rational data augmentation for energy consumption estimation of electric vehicles." Applied energy，accepted (2024).  
+`\
+Will be available soon at: [Applied Energy](https://doi.org/10.1016/j.apenergy.2024.123871)  
 
 ## Disclaimer
 This software is provided as freeware, intended solely for non-commercial, educational, and research purposes. It must not be used for any commercial purposes without prior authorization from the software developer. Any use for commercial purposes without such authorization will render you and the users responsible for any resultant liabilities, and the software developer and the platform will not be held responsible for any consequences arising therefrom.
